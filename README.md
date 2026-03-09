@@ -29,3 +29,6 @@ My name is July.
 What is my name?
 
 What is the price of GOOG?
+
+## Demo video link
+https://youtube.com/shorts/Kh97yj2LhT8?feature=share
